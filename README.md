@@ -1,8 +1,6 @@
 # Hello, I'm Debashish Sarkar 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?label=Stars&style=social)
+
 
 ## About Me 🧑‍💻
 
