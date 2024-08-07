@@ -10,7 +10,7 @@ currently working on a company as a backend developer.(www.swalook.in)
 - 🌱 I’m currently learning **DEEP LEARNING**
 - 👯 I’m looking to collaborate on **Web Based Projects**
 - 💬 Ask me about **Backend Development, Databases, System Design**
-- 📫 How to reach me: debashishsarkar90072@gmail.com(mailto:debashishsarkar90072@gmail.com)
+- 📫 How to reach me: debashishsarkar90072@gmail.com
 
 
 ## 🚀 Skills
