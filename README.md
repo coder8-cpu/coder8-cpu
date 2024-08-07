@@ -12,7 +12,7 @@ currently working on a company as a backend developer.(www.swalook.in)
 - 🌱 I’m currently learning **DEEP LEARNING**
 - 👯 I’m looking to collaborate on **Web Based Projects**
 - 💬 Ask me about **Backend Development, Databases, System Design**
-- 📫 How to reach me: [Your Email](mailto:debashishsarkar90072@gmail.com)
+- 📫 How to reach me: debashishsarkar90072@gmail.com(mailto:debashishsarkar90072@gmail.com)
 
 
 ## 🚀 Skills
@@ -21,15 +21,8 @@ currently working on a company as a backend developer.(www.swalook.in)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Html](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=html&logoColor=white)
-![Css](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Css&logoColor=white)
 
 
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 
